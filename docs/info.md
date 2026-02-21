@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A simple and gate 
+A simple nand gate 
 
 ## How to test
 
-Use an and gate truth table and apply values on input pins accordingly and monitor the output
+Use a nand gate truth table and apply values on input pins accordingly and monitor the output
 
 ## External hardware
 
